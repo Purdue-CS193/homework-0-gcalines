@@ -1,3 +1,9 @@
+# Gabriel's First CS193Homework
+- cool teachers
+- get to learn about cool things
+- helps my technological illiterate mind understand stuff
+- kind of confusing as to prepare me to get ready for actual cs class
+  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
